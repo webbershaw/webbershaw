@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Webber Shaw</h1>
-<h3 align="center">An back-end & AI developer undergraduate student. B.Eng (B.Tech) in Computer Science.Now applying for MPhil(MRes)/PhD.</h3>
+<h3 align="center">An back-end & AI developer & undergraduate student. B.Eng (B.Tech) in Computer Science.Now applying for MPhil(MRes)/PhD.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webbershaw&label=Profile%20views&color=0061ff&style=flat-square" alt="webbershaw" /> </p>
 
